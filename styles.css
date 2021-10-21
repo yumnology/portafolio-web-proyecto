@@ -7,3 +7,14 @@ body {
 	margin: 25px;
 }
 
+html {
+ border: 8px solid #ffff;!important
+ min-height: 100%;
+}
+
+.EmbedPDF {
+ border: 30px solid #ffff;!important
+ min-height: 100%;
+}
+
+
