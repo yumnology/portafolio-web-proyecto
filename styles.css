@@ -4,15 +4,27 @@ h1 {
 }
 
 body {
-	margin: 25px;
+	margin: 25px; 
+    background-color: #111111;
+
 }
+
+
+
+
 
 html {
  border: 8px solid #ffff;!important
  min-height: 100%;
+
 }
 
 .EmbedPDF {
  border: 30px solid #ffff;!important
  min-height: 100%;
+}
+
+
+.card {
+    background-color: #d8f9fc;
 }
